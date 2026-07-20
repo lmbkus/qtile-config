@@ -1,4 +1,4 @@
-# qtile
+# Qtile
 ### Install guide 
 $ sudo pacman -S rofi thunar feh picom alacritty python-psutil nerd-fonts 
 
